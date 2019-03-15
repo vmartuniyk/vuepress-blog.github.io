@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Hello Vova',
-  description: 'Just playing around',
+  title: 'Mafia travel Blog',
+  description: 'Цікаві та веселі історії пригод від мандрівників з України',
   themeConfig: {
     nav:[
       {text:'Home',link:'/'},
